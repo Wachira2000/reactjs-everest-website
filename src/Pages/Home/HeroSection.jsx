@@ -3,15 +3,15 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Hey, I'm John</p>
+          <p className="section--title"></p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Full Stack</span>{" "}
+            <span className="hero--section-title--color">Reach New Heights with</span>{" "}
             <br />
-            Developer
+            Everest Technologies
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+          From web and mobile apps to complex business challenges, we execute your vision with precision.
+            <br /> Let us guide you to digital success.
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>

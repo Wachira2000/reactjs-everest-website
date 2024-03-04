@@ -223,7 +223,7 @@ h2 {
 }
 .hero--section-description {
   color: var(--darkblue);
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 36px;
 }
@@ -746,3 +746,32 @@ input[type="checkbox"] {
 }
 
 /* Responsive Screens Ends*/
+
+.clients--section {
+  display: flex;
+  padding: 100.33px 65.33px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 56.667px;
+}
+
+.logos {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f5fcff;
+  overflow: hidden;
+  padding: 60px 0;
+  background: #f5fcff;
+  white-space: nowrap;
+}
+
+.logos-slide {
+  display: inline-block;
+}
+
+.logos-slide img {
+  height: 50px;
+  margin: 0 20px;
+}

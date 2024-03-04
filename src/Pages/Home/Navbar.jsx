@@ -72,7 +72,7 @@ function Navbar() {
               to="MyPortfolio"
               className="navbar--content"
             >
-              Portfolio
+              Industries
             </Link>
           </li>
           <li>
@@ -86,7 +86,7 @@ function Navbar() {
               to="AboutMe"
               className="navbar--content"
             >
-              About Me
+              About Us
             </Link>
           </li>
           <li>
@@ -115,7 +115,7 @@ function Navbar() {
         to="Contact"
         className="btn btn-outline-primary"
       >
-        Contact Me
+        Get In Touch
       </Link>
     </nav>
   );

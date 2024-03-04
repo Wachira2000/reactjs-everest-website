@@ -33,7 +33,7 @@ function Footer() {
                 to="MyPortfolio"
                 className="text-md"
               >
-                Portfolio
+                Industries
               </Link>
             </li>
             <li>
@@ -46,7 +46,7 @@ function Footer() {
                 to="AboutMe"
                 className="text-md"
               >
-                About Me
+                About Us
               </Link>
             </li>
             <li>
@@ -59,7 +59,7 @@ function Footer() {
                 to="Contact"
                 className="text-md"
               >
-                Contact
+                Get In Touch
               </Link>
             </li>
             <li>
@@ -172,7 +172,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Copyright © 2024 - All rights reserved by Everest Technologies.</p>
         <div className="footer--social--icon">
           <ul>
             <li>

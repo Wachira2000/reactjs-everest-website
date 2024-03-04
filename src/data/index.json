@@ -2,27 +2,27 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/feather-pen-1.png",
+      "title": "Web & App Development",
+      "description": "Elevate your digital presence with Everest's web and app development expertise. From captivating websites to cutting-edge mobile apps, we craft tailored solutions that drive results. Partner with us to bring your vision to life and thrive in the digital landscape."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Operations & Automation partner",
+      "description": "Partner with Everest for streamlined operations and automation solutions. From workflow optimization to AI integration, we'll empower your business to thrive efficiently and effectively."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Elevate your digital experience with Everest's UI/UX design expertise. From wireframing to prototyping, we create engaging interfaces that captivate users and drive results. Partner with us to transform your vision into a seamless digital experience."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/product-chain-1.png",
+      "title": "Digital Marketing",
+      "description": "At Everest, we're your digital marketing experts, dedicated to amplifying your brand's online presence and driving meaningful engagement. From SEO to social media, we tailor strategies to your goals, ensuring measurable results and sustainable growth. Partner with us to make your mark in the digital world."
     }
   ],
   "portfolio": [
