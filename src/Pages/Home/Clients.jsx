@@ -8,7 +8,6 @@ export default function Clients(){
          <img src='./img/logos--google.svg' /> 
          <img src='./img/logos--microsoft.svg' /> 
          <img src='./img/logos--atomic.svg' /> 
-         <img src='./img/logos--digital-ocean.svg' /> 
          <img src='./img/logos--evergreen.svg' />   
         </div>
         </div>

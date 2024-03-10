@@ -34,9 +34,13 @@ function Navbar() {
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
+     
       <div>
-        <img src="./img/logo.svg" alt="Logoipsum" />
+      <Link to="heroSection">
+        <img src="./img/logo.svg" alt="Everest" />
+        </Link>
       </div>
+     
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}
@@ -100,7 +104,7 @@ function Navbar() {
               to="testimonial"
               className="navbar--content"
             >
-              Testimonials
+              Results
             </Link>
           </li>
         </ul>

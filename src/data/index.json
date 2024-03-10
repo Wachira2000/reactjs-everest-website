@@ -9,7 +9,7 @@
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Operations & Automation partner",
+      "title": "Operations & Automation Partner",
       "description": "Partner with Everest for streamlined operations and automation solutions. From workflow optimization to AI integration, we'll empower your business to thrive efficiently and effectively."
     },
     {
@@ -28,24 +28,22 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/e-commerce.jpeg",
+      "title": "Web & App Development",
+      "description": "At Everest, we understand that every project is unique. That's why we take the time to listen to your goals, understand your audience, and tailor our approach to meet your specific needs. Whether you're a startup looking to make a splash or an established enterprise seeking to innovate, we have the skills and experience to help you succeed."
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/automation.jpeg",
+      "title": "Operations, AI & Automation",
+      "description": "At Everest, we excel in operations and automation solutions, streamlining processes to drive efficiency and growth. From workflow optimization to AI integration, we deliver results that propel your business forward. Partner with us to unlock your operational potential and thrive in today's dynamic market."
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/marketing.jpeg",
+      "title": "Digital Marketing",
+      "description": 
+      "At Everest, we're digital marketing experts, dedicated to amplifying your brand's online presence and driving meaningful engagement. From SEO to social media, we tailor strategies to your goals, ensuring measurable results and sustainable growth. Partner with us to make your mark in the digital world."
     }
   ],
   "testimonial": [
@@ -53,25 +51,25 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "description": "Everest transformed our online presence with their web development expertise. Their team's professionalism and attention to detail were truly impressive. Highly recommend!",
+      "author_name": "Marshall Kirchner",
+      "author_designation": "Product Manager - Evergreen"
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "description": "Everest's operations and automation solutions saved us time and resources. Their proactive approach and commitment to results made them invaluable partners",
+      "author_name": "Henry Wu",
+      "author_designation": "Operations Manager - Airbnb"
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "description": "Everest's digital marketing strategies drove tangible results for our business. Their tailored approach and expertise boosted our online visibility and engagement.",
+      "author_name": "Ben Tozier",
+      "author_designation": "Director of Operations - Atomic"
     }
   ]
 }
