@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/feather-pen-1.png",
       "title": "Web & App Development",
-      "description": "Elevate your digital presence with Everest's web and app development expertise. From captivating websites to cutting-edge mobile apps, we craft tailored solutions that drive results. Partner with us to bring your vision to life and thrive in the digital landscape."
+      "description": "Elevate your digital presence with NetKrafter's web and app development expertise. From captivating websites to cutting-edge mobile apps, we craft tailored solutions that drive results. Partner with us to bring your vision to life and thrive in the digital landscape."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Operations & Automation Partner",
-      "description": "Partner with Everest for streamlined operations and automation solutions. From workflow optimization to AI integration, we'll empower your business to thrive efficiently and effectively."
+      "description": "Partner with NetKrafter for streamlined operations and automation solutions. From workflow optimization to AI integration, we'll empower your business to thrive efficiently and effectively."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Elevate your digital experience with Everest's UI/UX design expertise. From wireframing to prototyping, we create engaging interfaces that captivate users and drive results. Partner with us to transform your vision into a seamless digital experience."
+      "description": "Elevate your digital experience with NetKrafter's UI/UX design expertise. From wireframing to prototyping, we create engaging interfaces that captivate users and drive results. Partner with us to transform your vision into a seamless digital experience."
     },
     {
       "id": "4",
       "src": "./img/product-chain-1.png",
       "title": "Digital Marketing",
-      "description": "At Everest, we're your digital marketing experts, dedicated to amplifying your brand's online presence and driving meaningful engagement. From SEO to social media, we tailor strategies to your goals, ensuring measurable results and sustainable growth. Partner with us to make your mark in the digital world."
+      "description": "At NetKrafter, we're your digital marketing experts, dedicated to amplifying your brand's online presence and driving meaningful engagement. From SEO to social media, we tailor strategies to your goals, ensuring measurable results and sustainable growth. Partner with us to make your mark in the digital world."
     }
   ],
   "portfolio": [
@@ -30,20 +30,20 @@
       "id": "1",
       "src": "./img/e-commerce.jpeg",
       "title": "Web & App Development",
-      "description": "At Everest, we understand that every project is unique. That's why we take the time to listen to your goals, understand your audience, and tailor our approach to meet your specific needs. Whether you're a startup looking to make a splash or an established enterprise seeking to innovate, we have the skills and experience to help you succeed."
+      "description": "At NetKrafter, we understand that every project is unique. That's why we take the time to listen to your goals, understand your audience, and tailor our approach to meet your specific needs. Whether you're a startup looking to make a splash or an established enterprise seeking to innovate, we have the skills and experience to help you succeed."
     },
     {
       "id": "2",
       "src": "./img/automation.jpeg",
       "title": "Operations, AI & Automation",
-      "description": "At Everest, we excel in operations and automation solutions, streamlining processes to drive efficiency and growth. From workflow optimization to AI integration, we deliver results that propel your business forward. Partner with us to unlock your operational potential and thrive in today's dynamic market."
+      "description": "At NetKrafter, we excel in operations and automation solutions, streamlining processes to drive efficiency and growth. From workflow optimization to AI integration, we deliver results that propel your business forward. Partner with us to unlock your operational potential and thrive in today's dynamic market."
     },
     {
       "id": "3",
       "src": "./img/marketing.jpeg",
       "title": "Digital Marketing",
       "description": 
-      "At Everest, we're digital marketing experts, dedicated to amplifying your brand's online presence and driving meaningful engagement. From SEO to social media, we tailor strategies to your goals, ensuring measurable results and sustainable growth. Partner with us to make your mark in the digital world."
+      "At NetKrafter, we're digital marketing experts, dedicated to amplifying your brand's online presence and driving meaningful engagement. From SEO to social media, we tailor strategies to your goals, ensuring measurable results and sustainable growth. Partner with us to make your mark in the digital world."
     }
   ],
   "testimonial": [
@@ -51,7 +51,7 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Everest transformed our online presence with their web development expertise. Their team's professionalism and attention to detail were truly impressive. Highly recommend!",
+      "description": "NetKrafter transformed our online presence with their web development expertise. Their team's professionalism and attention to detail were truly impressive. Highly recommend!",
       "author_name": "Marshall Kirchner",
       "author_designation": "Product Manager - Evergreen"
     },
@@ -59,7 +59,7 @@
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Everest's operations and automation solutions saved us time and resources. Their proactive approach and commitment to results made them invaluable partners",
+      "description": "NetKrafter's operations and automation solutions saved us time and resources. Their proactive approach and commitment to results made them invaluable partners",
       "author_name": "Henry Wu",
       "author_designation": "Operations Manager - Airbnb"
     },
@@ -67,7 +67,7 @@
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Everest's digital marketing strategies drove tangible results for our business. Their tailored approach and expertise boosted our online visibility and engagement.",
+      "description": "NetKrafter's digital marketing strategies drove tangible results for our business. Their tailored approach and expertise boosted our online visibility and engagement.",
       "author_name": "Ben Tozier",
       "author_designation": "Director of Operations - Atomic"
     }

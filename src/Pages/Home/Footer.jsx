@@ -174,7 +174,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Copyright © 2024 - All rights reserved by Everest Technologies.</p>
+        <p className="footer--content">Copyright © 2024 - All rights reserved by NetKrafter.</p>
           
       </div>
     </footer>

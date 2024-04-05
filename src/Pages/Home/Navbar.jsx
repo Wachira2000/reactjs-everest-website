@@ -37,7 +37,7 @@ function Navbar() {
      
       <div>
       <Link to="heroSection">
-        <img src="./img/logo.svg" alt="Everest" />
+        <img src="./img/logo.svg" alt="Everest"/>
         </Link>
       </div>
      

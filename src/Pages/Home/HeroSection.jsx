@@ -8,7 +8,7 @@ export default function HeroSection() {
           <h1 className="hero--section--title">
             <span className="hero--section-title--color">Reach New Heights with</span>{" "}
             <br />
-            Everest Technologies
+            NetKrafter
           </h1>
           <p className="hero--section-description">
           From web and mobile apps to complex business challenges, we execute your vision with precision.
