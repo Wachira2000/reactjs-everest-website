@@ -8,7 +8,7 @@ export default function ContactMe() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_lgmyv3q', 'template_f8lhyf7', form.current, 'c6ncqTB3LGyCZxSlY')
+    emailjs.sendForm('service_j561rnp', 'template_f8lhyf7', form.current, 'c6ncqTB3LGyCZxSlY')
       .then((result) => {
           alert("Email sent successfully");
       }, (error) => {
